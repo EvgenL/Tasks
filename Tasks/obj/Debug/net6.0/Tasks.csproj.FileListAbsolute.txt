@@ -1,0 +1,15 @@
+/Users/home/repos/Tasks/Tasks/bin/Debug/net6.0/Tasks
+/Users/home/repos/Tasks/Tasks/bin/Debug/net6.0/Tasks.deps.json
+/Users/home/repos/Tasks/Tasks/bin/Debug/net6.0/Tasks.runtimeconfig.json
+/Users/home/repos/Tasks/Tasks/bin/Debug/net6.0/Tasks.dll
+/Users/home/repos/Tasks/Tasks/bin/Debug/net6.0/Tasks.pdb
+/Users/home/repos/Tasks/Tasks/obj/Debug/net6.0/Tasks.csproj.AssemblyReference.cache
+/Users/home/repos/Tasks/Tasks/obj/Debug/net6.0/Tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/repos/Tasks/Tasks/obj/Debug/net6.0/Tasks.AssemblyInfoInputs.cache
+/Users/home/repos/Tasks/Tasks/obj/Debug/net6.0/Tasks.AssemblyInfo.cs
+/Users/home/repos/Tasks/Tasks/obj/Debug/net6.0/Tasks.csproj.CoreCompileInputs.cache
+/Users/home/repos/Tasks/Tasks/obj/Debug/net6.0/Tasks.dll
+/Users/home/repos/Tasks/Tasks/obj/Debug/net6.0/refint/Tasks.dll
+/Users/home/repos/Tasks/Tasks/obj/Debug/net6.0/Tasks.pdb
+/Users/home/repos/Tasks/Tasks/obj/Debug/net6.0/Tasks.genruntimeconfig.cache
+/Users/home/repos/Tasks/Tasks/obj/Debug/net6.0/ref/Tasks.dll
